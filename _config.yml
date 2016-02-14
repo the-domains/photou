@@ -1,0 +1,28 @@
+name: photou
+favicon: null
+layout_spectrum: 0.4668551739305258
+typography_spectrum: 0.7984118724707514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.30942802783101797
+  lightness: 0.21269311173819005
+  saturation: 0.6119563956744969
+  rhythmicContrast: 0.2899087965488434
+purpose: []
